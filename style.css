@@ -1,0 +1,53 @@
+html{ color:green;margin: 0px;
+
+
+}
+
+h1{ color:,;
+
+}
+
+h2{
+	  color:blue;
+}
+
+ section{
+ 	  background-color: black;
+  width: 500px;
+  height:50px;
+  padding:0;}
+
+ body{
+ 	  margin:0px;
+ }
+ section{
+ 	      background-color: #151515;
+ 	      padding: 20px;
+ 	      border:solid #888;
+ 	      border-width:1px 0;
+ }
+ {
+ 	 margin:0px;
+ 	 color:rgb(255,0,0);
+ }
+
+ img{ 
+       display:block;
+       width: 100%;}
+
+.box{
+	 border: solid 1px yellow;
+	 width: 25%;
+     float: left;
+	 background-color: #393999;
+	 box-sizing: border-box;
+	 padding: 20px;}
+
+	 .justify{
+	    text-align:justify;
+	    font-family:georgia;}
+
+span{
+	text-align: center;
+}
+

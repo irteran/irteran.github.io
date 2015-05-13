@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<link rel="stylesheet" href="cajaabsolute.css">
+</head>
+<body>
+	<div class="container">
+	<img src="http://www.azcatoimpex.com/products/descp/ban/prodban_21.jpg"alt="" class="foto">
+	<p class="pop">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu dignissim turpis. Vestibulum est ex, tristique eget malesuada vitae, ultrices quis dolor. Quisque porttitor erat non mi semper, non convallis odio dapibus. Mauris tempus at sapien a rutrum. Nam id consequat nunc. Suspendisse potenti. Nam feugiat ullamcorper ligula nec dignissim. Aenean in dignissim nunc, vitae scelerisque elit. Fusce accumsan auctor ultricies. Nulla facilisi. </p>
+	</div>
+</body>
+</html>

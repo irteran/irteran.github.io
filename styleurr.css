@@ -1,0 +1,61 @@
+tml{ color:green;margin: 50px;
+
+
+}
+
+h1{ color:black,;
+text-align:center;}
+
+
+h2{
+	  color:blue;
+}
+<style type="text/css">
+h1{text-align: center;}
+h2{text-align:center;}
+ section{
+ 	  background-color: black;
+  width: 500px;
+  height:50px;
+  padding:80px;}
+
+ body{
+ 	  margin:0px;
+ }
+ section{
+ 	      background-color: #151515;
+ 	      padding: 20px;
+ 	      border:solid #888;
+ 	      border-width:1px 0;
+ }
+ {
+ 	 margin:0px;
+ 	 color:rgb(255,0,0);
+ 	 |
+ }
+
+ img{ margin-left:  ;: none auto
+ 	   margin-right;:none auto
+       display:block;
+       width: 40%;
+       text-align: center;
+   	   object-position: Curriculum Israel.htmlS;}
+
+.box{
+	 border: solid 1px yellow;
+	 width: 25%;
+     float: left;
+	 background-color:gray;
+	 box-sizing:border-box;
+	 padding: 70px;}
+
+	 .justify{
+	    text-align:justify;
+	    font-family:georgia;}
+
+ span{
+ 	text-align: center;
+ }
+
+
+

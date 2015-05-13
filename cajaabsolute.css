@@ -1,0 +1,28 @@
+.foto
+{
+	width:400px;
+	height: 400px;
+}
+.container {
+	position:relative;
+	overflow: hidden;
+
+}
+.container:hover .pop{
+	bottom:0;
+	margin:0px;
+}
+.pop{
+	position: absolute;
+	background-color: aqua;
+	transition: all 1s ease-in-out;
+
+}
+.foto{
+	width:400px;
+	height:400px;
+}
+.text-over-img {
+	height: 100%
+
+}
